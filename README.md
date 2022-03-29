@@ -32,6 +32,10 @@
 
 Make use of API's from https://fakestoreapi.com/docs
 
+### Assignment submission:
+* Fork this repository, commit and push changes to your forked repository.
+* Raise a PR in this repo with your forked repository changes.
+
 ### UX Design:
 
 ![UX design image](./images/UX-design.jpg)
