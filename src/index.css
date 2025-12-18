@@ -1,0 +1,7 @@
+:root{
+  --bg:#f7f7f8;
+  --card:#fff;
+  --accent:#2b6cb0;
+}
+body{font-family:Inter, Roboto, Arial, sans-serif;margin:0;background:var(--bg);}
+#root{min-height:100vh}
